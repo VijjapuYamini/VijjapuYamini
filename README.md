@@ -1,6 +1,4 @@
 Hi,I'm Vijjapu Yamini
-*Python Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
-
 
 🌱 Learning: Java
 🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vijjapu-yamini-b77114325
